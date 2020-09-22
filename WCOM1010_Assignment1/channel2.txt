@@ -1,0 +1,3 @@
+Daniel,daniel@gmail.com,GoodPass101,True,{you forgot to write int;no problem}
+Ricky,ricky@mq.com,noGood,False,{hey whats wrong with my code x = 10;ah thanks!!;!!}
+Oh123,oh_123@hotmail.com,silLLy!,False,{he he}

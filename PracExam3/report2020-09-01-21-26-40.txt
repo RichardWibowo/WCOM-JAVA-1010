@@ -1,0 +1,8 @@
+Score = 70
+removeUpperCase(String) passed (15 marks)
+addNext(ArrayList<Integer>) passed (10 marks)
+totalCarSeats(ArrayList<Car>) passed (10 marks)
+carsLargerThan(LinkedList<Car> cars, Car target) passed (10 marks)
+findCars(ArrayList<Car> cars, int minSize, int maxSize) passed (15 marks)
+countOddDigits(int) passed (10 marks)
+

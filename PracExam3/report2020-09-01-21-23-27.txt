@@ -1,0 +1,5 @@
+Score = 35
+removeUpperCase(String) passed (15 marks)
+totalCarSeats(ArrayList<Car>) passed (10 marks)
+carsLargerThan(LinkedList<Car> cars, Car target) passed (10 marks)
+
